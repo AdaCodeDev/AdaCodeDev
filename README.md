@@ -21,7 +21,7 @@ Inspiradas pela pioneira Ada Lovelace, nossa missão é clara: remover as barrei
 ## Autores
 
 - Ana Luiza Felix
-- Laura
+- [@LauraSilvaS](https://github.com/LauraSilvaS)
 - [@maduamaral06](https://www.github.com/maduamaral06)
 - Maria Pignone
 - Thais
