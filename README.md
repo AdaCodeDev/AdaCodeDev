@@ -1,4 +1,6 @@
 
+<img width="534" height="148" alt="AdaCode logocomprida" src="https://github.com/user-attachments/assets/5d36e09f-2af2-4e4d-aac6-b1e1877cc747" />
+
 # AdaCode
 
 O AdaCode é uma iniciativa desenvolvida por um grupo de alunas do Instituto Federal de Santa Catarina (IFSC), unidas por uma observação comum: a evidente baixa representatividade feminina em cargos de Tecnologia da Informação (TI), especialmente em posições de liderança.
