@@ -23,7 +23,7 @@ Inspiradas pela pioneira Ada Lovelace, nossa missão é clara: remover as barrei
 - Ana Luiza Felix
 - [@LauraSilvaS](https://github.com/LauraSilvaS)
 - [@maduamaral06](https://www.github.com/maduamaral06)
-- [Mahpignone](https://github.com/Mahpignone)
+- [@Mahpignone](https://github.com/Mahpignone)
 - Thais
   
 ## 🚀 Sobre nós
